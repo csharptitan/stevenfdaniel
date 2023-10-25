@@ -1,15 +1,14 @@
-## Hi there 👋, I am Steven F. Daniel. Author. Programmer. Trainer. Speaker.
+## Hi there 👋, I am Steven F. Daniel. Author. Programmer. Trainer and Speaker.
 
 - 📖 You can get my books from [Amazon](https://www.amazon.com/Steven-F.-Daniel/e/B01NAV345T/) or my publisher [Packt](https://subscription.packtpub.com/search?query=steven+f.+daniel) or any good book store.
-- 💬 Ask me about any issues that you might be having with the code in my books.
+- 💬 Feel free to ask me about any issues that you might be having with the code in my books.
 
 # What you should know about me
 
 - I live in Melbourne, Australia.
 - I'm experienced in the practical use of Microsoft developer tools and technologies.
-- I'm dedicated to enthusiastic and dynamic training as a means of nurturing a lifelong love of programming.
 - I design, write, and deliver a variety of programming courses.
-- I'm adaptable and deal well with ambiguity in organizations of varying sizes and cultures.
+- I'm adaptable and work well with organizations of varying sizes and cultures.
 - I hold a Master's Degree in Computer Science.
 
 I have written a variety of guided learning books about Swift, Android, C# and .NET:
@@ -25,7 +24,7 @@ See all my books on [Amazon](https://www.amazon.com/Steven-F.-Daniel/e/B01NAV345
 Highly qualified and experienced.
 
 ## Microsoft Specialist
-Programming in C#, Developing Microsoft Azure Solutions
+Programming in C#
 
 ## Master of Computer Science
 Royal Melbourne Institute of Technology, June 2015
