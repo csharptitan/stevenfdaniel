@@ -8,7 +8,7 @@
 - I live in Melbourne, Australia.
 - I'm experienced in the practical use of Microsoft developer tools and technologies.
 - I'm dedicated to enthusiastic and dynamic training as a means of nurturing a lifelong love of programming.
-- I design, write, and deliver standardized and custom programming courses.
+- I design, write, and deliver a variety of programming courses.
 - I'm adaptable and deal well with ambiguity in organizations of varying sizes and cultures.
 - I hold a Master's Degree in Computer Science.
 
