@@ -12,10 +12,9 @@
 - I'm adaptable and deal well with ambiguity in organizations of varying sizes and cultures.
 - I hold a Master's Degree in Computer Science.
 
-Mastering Xamarin UI Development: Build robust and a maintainable cross-platform mobile UI with Xamarin and C# 7, 2nd Edition
 I have written a trilogy of guided learning books about C# and .NET:
-- [Mastering Xamarin UI Development: Build robust and a maintainable cross-platform mobile UI with Xamarin and C# 7, 2nd Edition]
-- [Apple Watch App Development 1st Edition]
+- Mastering Xamarin UI Development: Build robust and a maintainable cross-platform mobile UI with Xamarin and C# 7, 2nd Edition
+- Apple Watch App Development 1st Edition
 
 See all my books on [Amazon](https://www.amazon.com/Steven-F.-Daniel/e/B01NAV345T/) or 
 [Packt's website](https://subscription.packtpub.com/search?query=steven+f.+daniel).
